@@ -11,9 +11,7 @@ Tools used:
 
 **Functional specifications**
 
-<br>
-___
-</br>
+____
 
 **Testing section**
 

@@ -9,6 +9,9 @@ API Documentation: link to API documentation if exists or N/A
 
 Tools used:
 
+**Functional specifications**
+_______________________________________________________________________________________________________________________
+
 **Testing section**
 
 **1.1 Test Planning**

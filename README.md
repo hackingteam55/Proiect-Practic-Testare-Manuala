@@ -5,7 +5,7 @@ Application under test: [Application Name](https://www.google.com)
 
 API Documentation: link to API documentation if exists or N/A
 
-**The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
+**The final project will be split into 2 section: [Testing section]() and  [SQL section](https://github.com/hackingteam55/Proiect-Practic-Testare-Manuala/blob/fb25da16014e517b076348fd10a261b9b61dd791/firefox_not_installed_error.jpg)**
 
 Tools used:
 

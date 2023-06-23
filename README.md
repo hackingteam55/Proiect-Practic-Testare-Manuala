@@ -76,4 +76,8 @@ enter here bug titles
 **2 SQL section**
 
 
+**Acesta este ultimul fisier adaugat azi 23.06 si este un screenshot**
+[Screnshot](https://github.com/hackingteam55/Proiect-Practic-Testare-Manuala/blob/954129db6c64b12401fb037252d5c2be78dba160/ss_23.06.jpg)
+
+
 

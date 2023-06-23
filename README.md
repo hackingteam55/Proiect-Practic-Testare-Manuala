@@ -5,7 +5,7 @@ Application under test: [Application Name](https://www.google.com)
 
 API Documentation: link to API documentation if exists or N/A
 
-**The final project will be split into 2 section: [Testing section]() and  [SQL section](https://github.com/hackingteam55/Proiect-Practic-Testare-Manuala/tree/main#:~:text=execution%20report/chart-,2%20SQL%20section,-About)**
+**The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
 
 Tools used:
 
